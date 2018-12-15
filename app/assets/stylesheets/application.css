@@ -13,20 +13,41 @@
  *= require_tree .
  *= require_self
  */
-.navbar_ushinohi{
-  background: #222
+.navbar-ushinohi {
+  background-color: #222;
+  height: 6rem;
+  padding: 0.5rem;
 }
 a img {
   border: none;
 }
-.header-logo{
+.header-logo {
 	width: 4.84rem;
 	height: 2.0rem;
 }
-.title-logo{
+.title-logo {
 	width: calc(75vw);
 	height: calc(25vw);
 }
-.title-logo-center{
+.title-logo-center {
 	text-align:center
+}
+.footer {
+	background-color: #222;
+	height: 8rem;
+	padding: 2rem;
+}
+.fotter-rights {
+	float: right;
+	color: #FFF;
+	background-color: #222;
+}
+.footer-logo{
+	float: left;
+	width: 9.68rem;
+	height: 4.0rem;
+	background-color: #222;
+}
+.main {
+	height: calc(100vh - 17.2rem - 25vw);
 }
