@@ -48,6 +48,9 @@ a img {
 	height: 4.0rem;
 	background-color: #222;
 }
-.main {
+.top_main {
 	height: calc(100vh - 17.2rem - 25vw);
+}
+.contact_main {
+	height: calc(100vh - 46.8rem)
 }
