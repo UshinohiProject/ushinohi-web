@@ -32,3 +32,6 @@
 
 # .DS_Store
 .DS_Store
+
+# Ruby version 
+vendor/bundle/
