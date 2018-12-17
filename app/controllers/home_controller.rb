@@ -5,4 +5,6 @@ class HomeController < ApplicationController
   end
   def members
   end
+  def pics
+  end
 end
