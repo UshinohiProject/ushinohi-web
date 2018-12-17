@@ -1,0 +1,23 @@
+.members_title {
+	text-align: center;
+}
+.profile_pic {
+	width: 17rem;
+	height: 17rem;
+	margin: 0rem 1rem;
+}
+.profile_content {
+	float: left;
+}
+.profile_content p{
+	margin: 0rem;
+}
+.members_main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.profile {
+	width: 50rem;
+	padding: 5rem 0rem;
+}
