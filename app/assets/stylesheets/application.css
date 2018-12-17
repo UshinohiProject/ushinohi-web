@@ -30,7 +30,7 @@ a img {
 	height: calc(25vw);
 }
 .title-logo-center {
-	text-align:center
+	text-align:center;
 }
 .footer {
 	background-color: #222;
@@ -49,7 +49,7 @@ a img {
 	background-color: #222;
 }
 .top_main {
-	height: calc(100vh - 17.2rem - 25vw);
+	height: calc((100vh - 17.2rem - 25vw)/2);
 }
 .contact_main {
 	height: calc(100vh - 46.8rem)
