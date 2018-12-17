@@ -3,4 +3,6 @@ class HomeController < ApplicationController
   end
   def contact
   end
+  def members
+  end
 end
