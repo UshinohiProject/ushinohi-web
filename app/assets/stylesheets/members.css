@@ -1,5 +1,7 @@
 .members_title {
 	text-align: center;
+	font-size: 4em;
+	font-weight: bold;
 }
 .profile_pic {
 	width: 14rem;
@@ -12,12 +14,16 @@
 .profile_content p{
 	margin: 0rem;
 }
+.profile_name {
+	font-size: 1.5em;
+	font-weight: bold;
+}
 .members_main {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 .profile {
-	width: 50rem;
+	width: 70rem;
 	padding: 5rem 0rem;
 }
