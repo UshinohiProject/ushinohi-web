@@ -23,6 +23,9 @@
 	flex-direction: column;
 	align-items: center;
 }
+.members_below {
+	height: calc(100vh - 95.3rem);
+}
 .profile {
 	width: 70rem;
 	padding: 5rem 0rem;
