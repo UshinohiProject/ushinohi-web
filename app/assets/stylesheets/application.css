@@ -57,10 +57,13 @@ a img {
 .about_us {
 	text-align: center;
 	background: white;
-	padding: 80px 50px 10px 50px;
+	padding: 70px 50px 50px 50px;
 }
 .about_us_text {
 	text-align: center;
 	color: grey;
-	padding: 50px;
+	padding: 5px;
+}
+.blank {
+	padding: 100px;
 }
