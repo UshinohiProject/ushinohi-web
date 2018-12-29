@@ -10,6 +10,7 @@
 }
 .profile_content {
 	float: left;
+	max-width: 54rem;
 }
 .profile_content p{
 	margin: 0rem;
