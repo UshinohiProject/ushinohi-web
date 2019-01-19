@@ -1,0 +1,32 @@
+.project_title {
+	text-align: center;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+.project_main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.printer_content {
+	float: left;
+	max-width: 54rem;
+}
+
+.printer_name {
+	font-weight: bold;
+	font-size: 20px;
+	padding: 4rem 4rem 0rem 4rem;
+}
+.printer_pic {
+	width: 28rem;
+	height: 30rem;
+	margin: 1rem 1rem;
+}
+
+.project {
+	width: 85rem;
+	padding: 5rem 0rem;
+}
