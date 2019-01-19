@@ -10,17 +10,17 @@
 	align-items: center;
 }
 
-.printer_content {
+.project_content {
 	float: left;
 	max-width: 54rem;
 }
 
-.printer_name {
+.project_name {
 	font-weight: bold;
 	font-size: 20px;
 	padding: 4rem 4rem 0rem 4rem;
 }
-.printer_pic {
+.project_pic {
 	width: 28rem;
 	height: 30rem;
 	margin: 1rem 1rem;
@@ -30,3 +30,4 @@
 	width: 85rem;
 	padding: 5rem 0rem;
 }
+
