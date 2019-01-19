@@ -7,6 +7,6 @@ class HomeController < ApplicationController
   end
   def pics
   end
-  def projects
+  def project
   end
 end
